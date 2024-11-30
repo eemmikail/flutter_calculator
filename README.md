@@ -1,3 +1,3 @@
-# calculator_new
+# CALCULATOR WITH FLUTTER
 
-A new Flutter project.
+Simple android calculator clone without scientific. 
