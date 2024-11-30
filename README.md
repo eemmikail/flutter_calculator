@@ -1,2 +1,3 @@
-# flutter_calculator
-Simple calculator
+# calculator_new
+
+A new Flutter project.
